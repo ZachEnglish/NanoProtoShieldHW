@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name NanoDemo)(type KiCad)(uri ${KIPRJMOD}/NanoDemo.pretty)(options "")(descr ""))
+)
